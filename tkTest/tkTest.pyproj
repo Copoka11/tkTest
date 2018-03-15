@@ -21,6 +21,27 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="test_01.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_02.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_03.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_04.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_05.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_06.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_07.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="tkTest.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
