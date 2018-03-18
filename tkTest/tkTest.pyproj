@@ -45,6 +45,21 @@
     <Compile Include="test_08.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="test_09.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_10.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_12.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_13.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_14.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="tkTest.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
